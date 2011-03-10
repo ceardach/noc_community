@@ -1,0 +1,3 @@
+<?php
+
+include_once('noc_community.features.inc');
